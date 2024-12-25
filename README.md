@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bastian Ludwig</h1>
-<h3 align="center">a young & passionate Typescripter 📖 , Cloud-Surfer 🏄 (mostly in Azure) & Prompt Engineer 🔨</h3>
+<h3 align="center">a young & passionate TypeScripter 📖 , Cloud-Surfer 🏄 (mostly in Azure) & Prompt Engineer 🔨</h3>
 
 - 📈 im currently expanding my skills in **TypeScript for Backend with Node**
 
