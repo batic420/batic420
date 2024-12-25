@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,azure,bash,js,linux,nodejs,obsidian,powershell,ts,go&perline=5" />
+    <img src="https://skillicons.dev/icons?i=apple,azure,bash,js,linux,nodejs,obsidian,powershell,ts,go,mysql,git&perline=5" />
   </a>
 </p>
