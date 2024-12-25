@@ -7,7 +7,9 @@
 
 - ⚡️ i hate Windows.
 
-- ![image](https://github.com/user-attachments/assets/a1c74060-4b97-4150-922b-3547a075c199) & 
+![image](https://github.com/user-attachments/assets/b2d9a39a-51d2-4b00-bd1c-ae650f2c2cbf) ![image](https://github.com/user-attachments/assets/88817b08-b05b-44cd-b452-16242b3cbd4f)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
