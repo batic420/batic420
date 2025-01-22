@@ -6,7 +6,7 @@
 ## ☁️ Skills
 - **TypeScript** with Node for Backend
 - Cloud (mostly in **Azure**)
-- IaC with **Bicep**
+- IaC with **Bicep** and **Terraform**
 - **Prompt Engineering**
 
 
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Working on
 - **API Shell** for Backend Projects
-- **Security- & Attacking-Tool** for Networks
+- **Security- and Attacking-Tool** for Networks
 - Prompt Engineering **Support** for Customers
 - **Azure Virtual Desktop** for external locations
 
