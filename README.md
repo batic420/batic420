@@ -12,7 +12,6 @@
 
 ## 🏋️ Passion
 - **Gym**
-- Working with Friends on new Projects (**Social Media Marketing**)
 - **Travel**
 
 
