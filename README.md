@@ -1,4 +1,4 @@
-# Hi 👋, i'm Basti
+# Hi 👋, I'm Basti
 
 ### Backend Dev, Cloud-Surfer & Prompt Engineer
 ---
