@@ -1,6 +1,6 @@
 # Hi 👋, I'm Basti
 
-### Backend Dev, Cloud-Surfer & Prompt Engineer
+### Backend Dev, Cloud-Surfer & AI Enthusiast
 ---
 
 ## ☁️ Skills
