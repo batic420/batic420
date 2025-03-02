@@ -17,7 +17,7 @@
 - **Cars**
 
 ## 🧑‍💻 Working on
-- **API Shell** for Backend Projects
+- Smart Window Manager with AI called **Wond**
 - **Security- and Attacking-Tool** for Networks
 - **Research** and further training in fields around **AI** and stuff
 - **Azure Virtual Desktop** for external locations
