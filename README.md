@@ -17,10 +17,9 @@
 - **Cars**
 
 ## 🧑‍💻 Working on
-- Smart Window Manager with AI called **Wond**
-- **Security- and Attacking-Tool** for Networks
+- Smart Cloud Optimizer called **Wond**
 - **Research** and further training in fields around **AI** and stuff
-- **Azure Virtual Desktop** for external locations
+- All kinds of **Azure Learnings** for my future career
 ---
 
 <div align="center">
