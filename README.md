@@ -27,7 +27,7 @@
 # 📡 Tech-Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,python,js,linux,nodejs,ts,mysql,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=azure,python,go,linux,nodejs,ts,mysql,git&perline=4" />
   </a>
   
 </div>
