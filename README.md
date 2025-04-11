@@ -4,8 +4,8 @@
 ---
 
 ## ☁️ Skills
-- **TypeScript** with Node for Backend
-- **Python** for some scripts and CLI Tools
+- **Go** for my Backend tasks
+- **Python** for data engineering (in other words: just playing around and running code I have no clue of)
 - Cloud (mostly in **Azure**)
 - IaC with **Bicep**
 
