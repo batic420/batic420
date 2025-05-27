@@ -7,7 +7,7 @@
 - **Go** for my Backend tasks
 - **Python** for data engineering (in other words: just playing around and running code I have no clue of)
 - Cloud (mostly in **Azure**)
-- IaC with **Bicep**
+- Frontends for native apps with **Flutter**
 
 
 ## 🏋️ Passion
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Working on
 - Smart Cloud Optimizer called **Wond**
-- **Research** and further training in fields around **AI** and stuff
+- Setting up basic test app with frontend written in Flutter to gain **knowledge**
 - All kinds of **Azure Learnings** for my future career
 ---
 
