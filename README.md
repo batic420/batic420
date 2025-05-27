@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Working on
 - Smart Cloud Optimizer called **Wond**
-- Setting up basic test app with frontend written in Flutter to gain **knowledge**
+- Setting up a basic test app with frontend written in Flutter to gain **knowledge**
 - All kinds of **Azure Learnings** for my future career
 ---
 
