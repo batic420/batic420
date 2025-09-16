@@ -1,13 +1,12 @@
 # Hi 👋, I'm Basti
 
-### Young Dev, Cloud-Surfer & AI Enthusiast
+### Cloud-Architect & AI Enthusiast
 ---
 
 ## ☁️ Skills
-- **Go** for my Backend tasks
-- **Python** for data engineering (in other words: just playing around and running code I have no clue of)
-- Cloud (mostly in **Azure**)
-- Frontends for native apps with **Flutter**
+- Azure infrastructure tasks (incl. networking, storage, compute, etc.)
+- DevOps setups (incl. DevOps Agents for Azure, building YAML pipelines, storing codes, managing service connections, etc.)
+- IaC using Bicep and Terraform (mainly Bicep because of Azure)
 
 
 ## 🏋️ Passion
@@ -17,9 +16,10 @@
 - **Cars**
 
 ## 🧑‍💻 Working on
-- Smart Cloud Optimizer called **Wond**
-- Setting up a basic test app with frontend written in Flutter to gain **knowledge**
-- All kinds of **Azure Learnings** for my future career
+- My first public Bicep repo you can adapt for your own usage
+- Optimizing the cloud environment for the company I'm currently working for
+- AZ-104 Certification
+- My own blog - probably using dev.to
 ---
 
 <div align="center">
@@ -27,7 +27,7 @@
 # 📡 Tech-Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,typescript,flutter,mysql,azure,apple,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=azure,terraform,devto&perline=3" />
   </a>
   
 </div>
