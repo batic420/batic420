@@ -1,6 +1,6 @@
 # Hi 👋, I'm Basti
 
-### Cloud-Architect & AI Enthusiast
+### Cloud Infrastructure Engineer & AI Enthusiast
 ---
 
 ## ☁️ Skills
