@@ -29,5 +29,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,terraform,devto&perline=3" />
   </a>
+  <a href="https://github.com/Azure/bicep" target="_blank" rel="noreferrer"> <img src="https://github.com/Azure/bicep/blob/main/docs/images/BicepLogoImage.png?raw=true" alt="azure" width="50" height="50"    </a>
   
 </div>
