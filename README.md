@@ -16,7 +16,7 @@
 - **Cars**
 
 ## 🧑‍💻 Working on
-- My first public Bicep repo you can adapt for your own usage
+- Adapting Terraform as my primary IaC choice - even though I'm working with Azure
 - Optimizing the cloud environment for the company I'm currently working for
 - AZ-104 Certification
 - My own blog - probably using dev.to
